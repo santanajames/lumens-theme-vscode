@@ -1,0 +1,22 @@
+{
+    "name": "lumens-theme-vscode",
+    "displayName": "Lumens Theme",
+    "description": "A light theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "santanajames",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lumens Theme",
+                "uiTheme": "vs",
+                "path": "./themes/lumens-theme.json"
+            }
+        ]
+    }
+}
