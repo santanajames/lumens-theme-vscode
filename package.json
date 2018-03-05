@@ -18,5 +18,12 @@
                 "path": "./themes/lumens-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/santanajames/lumens-theme-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/santanajames/lumens-theme-vscode/issues"
     }
 }
