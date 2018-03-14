@@ -1,7 +1,7 @@
 {
     "name": "lumens-theme-vscode",
-    "displayName": "Lumens Theme",
-    "description": "A light theme for Visual Studio Code",
+    "displayName": "Lumens",
+    "description": "A beautiful light theme for night coders",
     "version": "0.0.1",
     "publisher": "santanajames",
     "engines": {
@@ -10,12 +10,28 @@
     "categories": [
         "Themes"
     ],
+    "galleryBanner": {
+        "color": "#51514E",
+        "theme": "light"
+    },
+    "keywords": [
+        "lumens",
+        "theme",
+        "light",
+        "dark"
+    ],
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
-                "label": "Lumens Theme",
+                "label": "Lumens Light",
                 "uiTheme": "vs",
-                "path": "./themes/lumens-theme.json"
+                "path": "./themes/lumens-light.json"
+            },
+            {
+                "label": "Lumens Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lumens-dark.json"
             }
         ]
     },
