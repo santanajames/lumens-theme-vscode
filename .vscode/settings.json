@@ -33,7 +33,7 @@
         // Debug toolbar background color.
         "debugToolBar.background": "#E2E2D9",
         // Foreground color for description text providing additional information, for example for a label.
-        "descriptionForeground": "#585854",
+        "descriptionForeground": "#51514E",
         // Background color for text that got inserted. The color must not be opaque to not hide underlying decorations.
         "diffEditor.insertedTextBackground": "#3ABC6869",
         // Outline color for the text that got inserted.
@@ -43,9 +43,9 @@
         // Outline color for text that got removed.
         // "diffEditor.removedTextBorder": "#BD3D3F",
         // Dropdown background.
-        "dropdown.background": "#585854",
+        "dropdown.background": "#F4F4EB",
         // Dropdown border.
-        "dropdown.border": "#51514E",
+        "dropdown.border": "#82827D",
         // Dropdown foreground.
         "dropdown.foreground": "#51514E",
         // Editor background color.

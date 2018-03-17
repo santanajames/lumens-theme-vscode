@@ -1,7 +1,7 @@
 {
     "name": "lumens-theme-vscode",
     "displayName": "Lumens",
-    "description": "A beautiful theme for Visual Studio Code",
+    "description": "A beautifully designed color theme.",
     "version": "1.0.0",
     "publisher": "santanajames",
     "engines": {
@@ -15,14 +15,14 @@
         "theme": "light"
     },
     "keywords": [
-        "lumens",
+        "focus",
+        "contrast",
         "theme",
         "light",
         "dark",
-        "contrast",
         "day",
-        "twilight",
-        "night"
+        "night",
+        "twilight"
     ],
     "icon": "icon.png",
     "contributes": {
