@@ -19,10 +19,7 @@
         "contrast",
         "theme",
         "light",
-        "dark",
-        "day",
-        "night",
-        "twilight"
+        "dark"
     ],
     "icon": "icon.png",
     "contributes": {
