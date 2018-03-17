@@ -27,11 +27,11 @@
         // An extra border around elements to separate them from others for greater contrast.
         // "contrastBorder": "#00ff0f",
         // Exception widget background color.
-        "debugExceptionWidget.background": "#00ff0f",
+        // "debugExceptionWidget.background": "#00ff0f",
         // Exception widget border color.
         // "debugExceptionWidget.border": "#00ff0f",
         // Debug toolbar background color.
-        "debugToolBar.background": "#F4F4EB",
+        "debugToolBar.background": "#E2E2D9",
         // Foreground color for description text providing additional information, for example for a label.
         "descriptionForeground": "#585854",
         // Background color for text that got inserted. The color must not be opaque to not hide underlying decorations.
@@ -118,7 +118,7 @@
         // Background color of the Tabs container.
         "editorGroupHeader.tabsBackground": "#F4F4EB",
         // Border color of the editor group title header when tabs are enabled. Editor groups are the containers of editors.
-        "editorGroupHeader.tabsBorder": "#82827d11",
+        "editorGroupHeader.tabsBorder": "#82827d20",
         // Editor gutter background color for lines that are added.
         "editorGutter.addedBackground": "#3ABC68",
         // Background color of the editor gutter. The gutter contains the glyph margins and the line numbers.
@@ -138,7 +138,7 @@
         // Foreground color of info squigglies in the editor.
         // "editorInfo.foreground": "#00ff0f",
         // Color of editor line numbers.
-        "editorLineNumber.foreground": "#82827D69",
+        "editorLineNumber.foreground": "#82827Da0",
         // Color of active links.
         // "editorLink.activeForeground": "#00ff0f",
         // Editor marker navigation widget background.
@@ -210,25 +210,25 @@
         // Extension view button background hover color.
         // "extensionButton.prominentHoverBackground": "#00ff0f",
         // Overall border color for focused elements. This color is only used if not overridden by a component.
-        // "focusBorder": "#00ff0f",
+        "focusBorder": "#1F9CE0",
         // Overall foreground color. This color is only used if not overridden by a component.
         // "foreground": "#00ff0f",
         // Color for deleted git resources. Used file labels and the SCM viewlet.
         "gitDecoration.deletedResourceForeground": "#B52224",
         // Color for ignored git resources. Used file labels and the SCM viewlet.
-        "gitDecoration.ignoredResourceForeground": "#82827dc0",
+        "gitDecoration.ignoredResourceForeground": "#82827da0",
         // Color for modified git resources. Used file labels and the SCM viewlet.
         "gitDecoration.modifiedResourceForeground": "#1F9CE0",
         // Color for untracked git resources. Used file labels and the SCM viewlet.
         "gitDecoration.untrackedResourceForeground": "#3ABC68",
         // Input box background.
-        // "input.background": "#00ff0f",
+        // "input.background": "#F4F4EB",
         // Input box border.
-        // "input.border": "#00ff0f",
+        "input.border": "#E2E2D9",
         // Input box foreground.
-        // "input.foreground": "#00ff0f",
+        "input.foreground": "#51514E",
         // Input box foreground color for placeholder text.
-        // "input.placeholderForeground": "#00ff0f",
+        "input.placeholderForeground": "#82827da0",
         // Border color of activated options in input fields.
         // "inputOption.activeBorder": "#00ff0f",
         // Input validation background color for error severity.
@@ -244,9 +244,9 @@
         // Input validation border color for warning severity.
         // "inputValidation.warningBorder": "#00ff0f",
         // List/Tree background color for the selected item when the list/tree is active.
-        // "list.activeSelectionBackground": "#00ff0f",
+        "list.activeSelectionBackground": "#E2E2D9",
         // List/Tree foreground color for the selected item when the list/tree is active.
-        // "list.activeSelectionForeground": "#00ff0f",
+        "list.activeSelectionForeground": "#51514E",
         // List/Tree drag and drop background when moving items around using the mouse.
         "list.dropBackground": "#e9c00a",
         // List/Tree background color for the focused item when the list/tree is active.
@@ -256,15 +256,15 @@
         // List/Tree foreground color of the match highlights when searching inside the list/tree.
         // "list.highlightForeground": "#00ff0f",
         // List/Tree background when hovering over items using the mouse.
-        // "list.hoverBackground": "#00ff0f",
+        "list.hoverBackground": "#E2E2D9",
         // List/Tree foreground when hovering over items using the mouse.
-        // "list.hoverForeground": "#00ff0f",
+        "list.hoverForeground": "#51514E",
         // List/Tree background color for the selected item when the list/tree is inactive. An active list/tree has keyboard focus, an inactive does not.
         // "list.inactiveFocusBackground": "#00ff0f",
         // List/Tree foreground color for the selected item when the list/tree is inactive. An active list/tree has keyboard focus, an inactive does not.
         // "list.inactiveFocusForeground": "#00ff0f",
         // List/Tree background color for the selected item when the list/tree is inactive.
-        // "list.inactiveSelectionBackground": "#00ff0f",
+        "list.inactiveSelectionBackground": "#E2E2D9",
         // List/Tree foreground color for the selected item when the list/tree is inactive. An active list/tree has keyboard focus, an inactive does not.
         // "list.inactiveSelectionForeground": "#00ff0f",
         // List/Tree foreground color for invalid items, for example an unresolved root in explorer.
@@ -308,7 +308,7 @@
         // Panel background color.
         "panel.background": "#E2E2D9",
         // Panel border color to separate the panel from the editor.
-        // "panel.border": "#e9c00a",
+        "panel.border": "#82827d20",
         // Drag and drop feedback color for the panel title items. The color should have transparency so that the panel entries can still shine through.
         "panel.dropBackground": "#e9c00a",
         // Border color for the active panel title.
@@ -316,7 +316,7 @@
         // Title color for the active panel.
         "panelTitle.activeForeground": "#51514E",
         // Title color for the inactive panel.
-        "panelTitle.inactiveForeground": "#82827D",
+        "panelTitle.inactiveForeground": "#82827da0",
         // Color of the peek view borders and arrow.
         // "peekView.border": "#00ff0f",
         // Background color of the peek view editor.
@@ -370,9 +370,9 @@
         // Side Bar section header background color.
         // "sideBarSectionHeader.background": "#CDCDC4",
         // Side Bar section header foreground color.
-        // "sideBarSectionHeader.foreground": "#00ff0f",
+        // "sideBarSectionHeader.foreground": "#51514E",
         // Side Bar title foreground color.
-        // "sideBarTitle.foreground": "#00ff0f",
+        // "sideBarTitle.foreground": "#51514E",
         // Standard Status Bar background color.
         "statusBar.background": "#1F9CE0",
         // Status Bar border color separating the Status Bar and editor.
@@ -414,7 +414,7 @@
         // Inactive Tab background color.
         "tab.inactiveBackground": "#E2E2D9",
         // Inactive Tab foreground color in an active group.
-        "tab.inactiveForeground": "#82827dbb",
+        "tab.inactiveForeground": "#82827da0",
         // Bottom border for the active tab in an inactive editor group.
         // "tab.unfocusedActiveBorder": "#00ff0f",
         // Active tab foreground color in an inactive editor group.
@@ -486,7 +486,7 @@
         // Title Bar foreground when the window is active. Note that this color is currently only supported on macOS.
         "titleBar.activeForeground": "#51514E",
         // Title bar border color. Note that this color is currently only supported on macOS.
-        "titleBar.border": "#82827d11",
+        "titleBar.border": "#82827d20",
         // Title Bar background when the window is inactive. Note that this color is currently only supported on macOS.
         // "titleBar.inactiveBackground": "#00ff0f",
         // Title Bar foreground when the window is inactive. Note that this color is currently only supported on macOS.
@@ -498,6 +498,6 @@
         // Hover background color for the buttons on the Welcome page.
         // "welcomePage.buttonHoverBackground": "#00ff0f",
         // Shadow color of widgets such as Find/Replace inside the editor.
-        "widget.shadow": "#82827d7e"
+        "widget.shadow": "#82827da0"
     }
 }

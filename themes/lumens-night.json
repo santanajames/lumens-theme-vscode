@@ -1,6 +1,6 @@
 {
 	"name": "Lumens Theme",
-	"type": "light",
+	"type": "dark",
 	"colors": {
 		"activityBar.background": "#1E1E1D",
 		"activityBar.dropBackground": "#E9C00A",
