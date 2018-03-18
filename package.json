@@ -2,7 +2,7 @@
     "name": "lumens-theme-vscode",
     "displayName": "Lumens",
     "description": "A beautifully designed color theme.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "santanajames",
     "engines": {
         "vscode": "^1.20.0"
