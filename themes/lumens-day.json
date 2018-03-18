@@ -69,6 +69,8 @@
 		"sideBar.foreground": "#51514E",
 		"statusBar.background": "#1F9CE0",
 		"statusBar.foreground": "#F4F4EB",
+		"statusBar.noFolderBackground": "#1F9CE0",
+		"statusBar.noFolderForeground": "#F4F4EB",
 		"statusBarItem.hoverBackground": "#82827D",
 		"tab.activeBorder": "#E9C00A",
 		"tab.activeForeground": "#51514E",

@@ -386,11 +386,11 @@
         // Status Bar foreground color.
         "statusBar.foreground": "#F4F4EB",
         // Status Bar background color when no folder is opened.
-        // "statusBar.noFolderBackground": "#00ff0f",
+        "statusBar.noFolderBackground": "#1F9CE0",
         // Status Bar border color separating the Status Bar and editor when no folder is opened.
         // "statusBar.noFolderBorder": "#00ff0f",
         // Status Bar foreground color when no folder is opened.
-        // "statusBar.noFolderForeground": "#00ff0f",
+        "statusBar.noFolderForeground": "#F4F4EB",
         // Status Bar item background color when clicking.
         // "statusBarItem.activeBackground": "#00ff0f",
         // Status Bar item background color when hovering.
